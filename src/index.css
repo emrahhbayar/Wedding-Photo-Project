@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+@import "tailwindcss";
+
+@plugin "daisyui" {
+    themes: light --default;
+}
+
+.h2css {
+    font-family: "Great Vibes", cursive;
+}
